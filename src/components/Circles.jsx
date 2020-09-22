@@ -5,7 +5,7 @@ const Circles = () => {
     let list = ["AWS", "Node.js", "Javascript"];
     return (
         <React.Fragment>
-            <div className="before-circle ml-4 mt-1 mr-4">
+            <div className="before-circle ml-4 mt-1">
                 Most popular Skills your students have
             </div>
             <div className="flex-wrapper">

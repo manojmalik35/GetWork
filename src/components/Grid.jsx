@@ -4,6 +4,7 @@ import NewJobs from './NewJobs';
 import StudReg from './StudReg';
 import VisComp from './VisComp';
 import Circles from './Circles';
+import RecNot from './RecNot';
 
 const Grid = () => {
     return (
@@ -41,7 +42,7 @@ const Grid = () => {
                     Students Placed
                 </div>
                 <div className="notifications">
-                    Recent notifications
+                    <RecNot></RecNot>
                 </div>
             </div>
 

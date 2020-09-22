@@ -224,7 +224,7 @@ li{
   width: 25%;
   background-color: white;
   border: 1px solid gray;
-  box-shadow: 1px 1px gray;
+  box-shadow: 2px 2px 2px 2px gray;
   z-index: 1;
 }
 .dell{
